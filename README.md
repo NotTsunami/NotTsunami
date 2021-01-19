@@ -11,6 +11,7 @@ Repositories I contribute to in my free time:
   </p><p>
   <img src="assets/c.svg">
   <img src="assets/c++.svg">
+  <img src="assets/csharp.svg">
   <img src="assets/java.svg">
   <img src="assets/python.svg">
   </p><p>
