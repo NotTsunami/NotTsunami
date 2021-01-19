@@ -1,16 +1,22 @@
-### Hi there 👋
+<img src="assets/tyler.gif" alt="Tyler Dunn">
 
-<!--
-**NotTsunami/NotTsunami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Repositories I contribute to in my free time:
+- <a href="https://github.com/qbittorrent/qBittorrent">qBittorrent</a>
+- <a href="https://github.com/xiph/flac">flac</a>
 
-Here are some ideas to get you started:
+<p>
+  <img src="assets/android.svg">
+  <img src="assets/linux.svg">
+  <img src="assets/windows.svg">
+  </p><p>
+  <img src="assets/c.svg">
+  <img src="assets/c++.svg">
+  <img src="assets/java.svg">
+  <img src="assets/python.svg">
+  </p><p>
+  <img src="assets/html5.svg">
+  <img src="assets/css3.svg">
+  <img src="assets/javascript.svg">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me via <a href="mailto:contact@tsunami.dev">email</a>.
