@@ -1,4 +1,4 @@
-<img src="assets/tyler.gif" alt="Tyler Dunn">
+<img src="assets/tyler.svg" alt="Tyler Dunn" width="100%">
 
 Repositories I contribute to in my free time:
 - <a href="https://github.com/qbittorrent/qBittorrent">qBittorrent</a>
