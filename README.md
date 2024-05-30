@@ -18,4 +18,4 @@
   <img src="assets/javascript.svg">
 </p>
 
-<p align="center">Contact me via <a href="mailto:contact@tsunami.dev">email</a>!</p>
+<p align="center">Contact me via <a href="mailto:contact@tylerd.dev">email</a>!</p>
