@@ -5,8 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tylerdunncs/">LinkedIn</a> &bull;
-  <a href="mailto:contact@tylerd.dev">Email</a> &bull;
-  <a href="https://github.com/NotTsunami">GitHub</a>
+  <a href="mailto:contact@tylerd.dev">Email</a>
 </p>
 
 ---
@@ -90,8 +89,4 @@ Currently focused on real-time data visualization, cross-platform applications, 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NotTsunami&theme=default" alt="GitHub Stats" height="165">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NotTsunami&theme=default&utcOffset=-5" alt="Productive Time" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotTsunami&theme=default&hide_border=true" alt="GitHub Streak">
 </p>
