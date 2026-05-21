@@ -64,7 +64,7 @@ Currently focused on real-time data visualization, cross-platform applications, 
     <td width="50%" valign="top">
       <h4><a href="https://mapledoro.com">MapleDoro</a></h4>
       <p><strong>React &bull; Next.js &bull; Vercel</strong></p>
-      <p>MapleStory player tools: progression calculators, weekly/daily trackers, event planners, symbol tracking, HEXA skill tracking, and boss income utilities. Production-deployed with HTTP security headers and Next.js optimizations.</p>
+      <p>MapleStory player tools: progression calculators, weekly/daily trackers, event planners, symbol tracking, HEXA skill tracking, and boss income utilities.</p>
     </td>
     <td width="50%" valign="top">
       <h4>Reptile Enclosure Automation</h4>
