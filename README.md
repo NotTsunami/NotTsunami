@@ -52,7 +52,8 @@ Currently focused on real-time data visualization, cross-platform applications, 
 | Role | Company | Period |
 |------|---------|--------|
 | **Software Engineer** | Metatronic, LLC | Nov 2025 -- May 2026 |
-| **Software Engineer I / II** | Astronics Test Systems | May 2022 -- Nov 2025 |
+| **Software Engineer II** | Astronics Test Systems | Mar 2023 -- Nov 2025 |
+| **Software Engineer I** | Astronics Test Systems | May 2022 -- Mar 2023 |
 | **Front-End Engineer** | SwingThought (Contract) | Aug 2021 -- Feb 2022 |
 
 ---
