@@ -92,8 +92,3 @@ Currently focused on real-time data visualization, cross-platform applications, 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotTsunami&theme=default" alt="Profile Details" width="100%">
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NotTsunami&theme=default" alt="GitHub Stats" height="165">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NotTsunami&theme=default&utcOffset=-5" alt="Productive Time" height="165">
-</p>
