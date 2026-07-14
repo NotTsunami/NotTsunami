@@ -13,43 +13,35 @@
 
 ### About Me
 
-Full-stack software engineer with 4+ years of experience building and operating production systems across web, desktop, embedded, and hardware-integrated environments, spanning defense, test systems, and self-hosted infrastructure. I turn prototypes and UI mockups into reliable, user-facing software for engineering and technical users, and own services end-to-end: from pipeline and protocol design through deployment, hardening, and reliability.
+Full-stack engineer with 4+ years of experience across web, desktop, and hardware-integrated systems, mostly in defense and test environments. I like taking a rough prototype or a mockup and turning it into something people can actually rely on day to day.
 
-That includes designing and running CI/CD pipelines, containerized services, and secured network edges, from Cloudflare-tunneled APIs with managed traffic and rate-limiting rules to TLS-secured authentication flows.
-
-Currently focused on real-time data visualization, cross-platform applications, and production-hardened tooling.
+Currently working on real-time data visualization, cross-platform apps, and the CI/CD and containerized services that keep them running.
 
 ---
 
 ### Tech Stack
 
-**Languages**
+**Day-to-day**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-**Frontend**
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-**Backend & Tools**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+
+**Also shipped with**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipsemosquitto&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
 ---
 
@@ -71,12 +63,12 @@ Currently focused on real-time data visualization, cross-platform applications, 
     <td width="50%" valign="top">
       <h4><a href="https://mapledoro.com">MapleDoro</a></h4>
       <p><strong>React &bull; Next.js &bull; Vercel</strong></p>
-      <p>MapleStory player tools: progression calculators, weekly/daily trackers, event planners, symbol tracking, HEXA skill tracking, and boss income utilities.</p>
+      <p>MapleStory player tools: progression calculators, daily/weekly trackers, symbol and HEXA skill tracking, and boss income utilities.</p>
     </td>
     <td width="50%" valign="top">
       <h4>Reptile Enclosure Automation</h4>
       <p><strong>React Native &bull; Expo &bull; Firebase &bull; Node.js</strong></p>
-      <p>Full-stack enclosure automation system for monitoring environmental conditions. Cross-platform interfaces for browser, Android, and iOS from a shared codebase.</p>
+      <p>Enclosure monitoring and automation, with browser, Android, and iOS clients from a shared codebase.</p>
     </td>
   </tr>
 </table>
