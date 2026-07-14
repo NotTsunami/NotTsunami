@@ -19,43 +19,6 @@ Currently working on real-time data visualization, cross-platform apps, and the 
 
 ---
 
-### Tech Stack
-
-**Day-to-day**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Also shipped with**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipsemosquitto&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-
----
-
-### Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| **Software Engineer** | Metatronic, LLC | Nov 2025 - Current |
-| **Software Engineer II** | Astronics Test Systems | Mar 2023 - Nov 2025 |
-| **Software Engineer I** | Astronics Test Systems | May 2022 - Mar 2023 |
-| **Front-End Engineer** | SwingThought | Aug 2021 - Feb 2022 |
-
----
-
 ### Featured Projects
 
 <table>
@@ -75,12 +38,24 @@ Currently working on real-time data visualization, cross-platform apps, and the 
 
 ---
 
-### Education
+### Experience
 
-**University of Central Florida** - B.S. Computer Science (Dec 2021)
+| Role | Company | Period |
+|------|---------|--------|
+| **Software Engineer** | Metatronic, LLC | Nov 2025 - Current |
+| **Software Engineer II** | Astronics Test Systems | Mar 2023 - Nov 2025 |
+| **Software Engineer I** | Astronics Test Systems | May 2022 - Mar 2023 |
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotTsunami&theme=default" alt="Profile Details" width="100%">
-</p>
+### Tech Stack
+
+**Day-to-day:** TypeScript, React / Next.js, Node.js, Python, C#, PostgreSQL, Docker
+
+**Also shipped with:** C++, Go, Dart / Flutter, Vue.js, gRPC, MQTT, AWS
+
+---
+
+### Education
+
+**University of Central Florida** - B.S. Computer Science (Dec 2021)
